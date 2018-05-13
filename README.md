@@ -7,4 +7,4 @@ VO_programming_course_2_term_2
 55
 dfs
 
- h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ h<sub>&theta;</sub>(x) = &theta;<sup>o</sup> x + &theta;<sub>1</sub>x
